@@ -45,4 +45,3 @@ public class SnakeLadder {
 to get a number
 between 1 and 6. - Use ((RANDOM)) to get the number between
 1 and 6*/
-
