@@ -1,4 +1,4 @@
-package com.brideglabz.SnakeAndLadder;
+package com.brideglabz.snakeandladder;
 
 public class SnakeLadder {
     public static void main(String[] args) {
