@@ -1,7 +1,5 @@
 package com.brideglabz.snakeandladder;
-
 import java.util.Random;
-
 public class SnakeLadder {
     public static void main(String[] args) {
         int choice = 0;
