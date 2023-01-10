@@ -1,7 +1,5 @@
 package com.brideglabz.snakeandladder;
-
 import java.util.Random;
-
 public class SnakeLadder {
     public static void main(String[] args) {
         int choice = 0;
@@ -37,12 +35,13 @@ public class SnakeLadder {
             }
             System.out.println("Current Position : Square " + POSITION);
         }
+        System.out.println();
+        System.out.println("You Win the Game.");
+        System.out.println();
+        System.out.println("Total Number of dice rolls played = "+dice);
     }
 }
-/*Ensure the player gets
-to exact winning
-position 100. - Note in case the player position go above
-100, the player stays in the same previous
-position till the player gets the exact
-
-number*/
+/*The Player rolls the die
+to get a number
+between 1 and 6. - Use ((RANDOM)) to get the number between
+1 and 6*/
