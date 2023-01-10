@@ -41,8 +41,8 @@ public class SnakeLadder {
         System.out.println("Total Number of dice rolls played = "+dice);
     }
 }
-/*The Player rolls the die
-to get a number
-between 1 and 6. - Use ((RANDOM)) to get the number between
-1 and 6*/
+/*Snake and Ladder
+game played with
+single player at start
+position 0*/
 
