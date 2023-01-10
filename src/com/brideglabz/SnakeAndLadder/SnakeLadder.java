@@ -1,4 +1,4 @@
-package com.brideglabz.SnakeAndLadder;
+package com.brideglabz.snakeandladder;
 
 import java.util.Random;
 
